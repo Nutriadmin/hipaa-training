@@ -20,10 +20,10 @@ The training covers the following topics:
 * How did the HITECH Act change HIPAA;
 * What is expected of workforce members with acess to systems that store PHI;
 	* What are the sanctions for knowingly violating HIPAA;
-* How does Datica address compliance.
+* How does NutriAdmin address compliance.
 
 *********************
-We are in the business of providing compliant infrastructure to our customers so that they do not have to worry about the nuances of devOps and scaling and managing infrastructure - all they have to worry about is their application - its capabilities and its security and their own internal policies. We take care of everything else.
+We are in the business of providing compliant software as a service to our customers (mainly nutritionists and dietitians) so that they do not have to worry about the nuances of software and application security - all they have to worry about is their clients and patients - its own internal policies and security on their own environments. We take care of everything else.
 
 
 So why is HIPAA training important? The rationale is best explained by this quote from Cory Doctorow -
@@ -41,5 +41,10 @@ So please - take the time to read through this carefully.
 
 
 *********************
+
+
+## Attribution
+
+These training materials for NutriAdmin are an adaptation of Datica's training.
 
 Original material and content was created by [Datica Health, Inc,](https://datica.com) and is released as open source. Available educational material for HIPAA is largely outdated in its coverage of technology and utility to vendors is extremely limited. The goal of releasing this as open source is that the growing community of healthcare companies can contribute, enrich, and keep it relevant over time. Please email [training@datica.com](mailto:training@datica.com) with any questions or problems accessing the training.
