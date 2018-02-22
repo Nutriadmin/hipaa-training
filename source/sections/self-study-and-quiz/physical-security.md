@@ -1,6 +1,6 @@
 ## Security
 
-This set of questions will help you guage your understanding of the physical security requirements under HIPAA and the Datica policies in place to meet them.
+This set of questions will help you guage your understanding of the physical security requirements under HIPAA and the NutriAdmin policies in place to meet them.
 
 
 ---
@@ -42,7 +42,7 @@ It is ok to backup my laptop onto a portable external drive
 
 <div class="reveal-answer">
 	<button class="button">Reveal Answer</button>
-	<blockquote><p>This is only permitted if the external drive is also encrypted. We recommend backing everything up to the company Box account.</p></blockquote>
+	<blockquote><p>This is only permitted if the external drive is also encrypted. We recommend backing everything up to the company Google Drive account.</p></blockquote>
 </div>
 
 ---

@@ -4,26 +4,22 @@ This is to ensure that you know whom to reach out to in case you have any questi
 
 Who is the Chief Privacy Officer?
 
-- <input type="checkbox"> Vincent Kenney
-- <input type="checkbox"> Mohan Balachandran
-- <input type="checkbox"> Adam Leko
-- <input type="checkbox"> Travis Good
+- <input type="checkbox"> Magda Sternik
+- <input type="checkbox"> Diego Oliveira Sanchez
 
 <div class="reveal-answer">
 	<button class="button">Reveal Answer</button>
-	<blockquote><p>Travis Good is the Chief Privacy Officer.</p></blockquote>
+	<blockquote><p>Magda Sternik is the Chief Privacy Officer.</p></blockquote>
 </div>
 
 Who is the Chief Security Officer?
 
-- <input type="checkbox"> Mike Ortiz
-- <input type="checkbox"> Mohan Balachandran
-- <input type="checkbox"> Adam Leko
-- <input type="checkbox"> Travis Good
+- <input type="checkbox"> Magda Sternik
+- <input type="checkbox"> Diego Oliveira Sanchez
 
 <div class="reveal-answer">
 	<button class="button">Reveal Answer</button>
-	<blockquote><p>Adam Leko is the Chief Security Officer.</p></blockquote>
+	<blockquote><p>Diego Oliveira Sanchez is the Chief Security Officer.</p></blockquote>
 </div>
 
 You have questions and concerns about training - compliance or security related. You should reach out to:
@@ -38,7 +34,7 @@ You have questions and concerns about training - compliance or security related.
 	<blockquote><p>All training related concerns should be communicated either to the Chief Privacy Officer or your manager.</p></blockquote>
 </div>
 
-You receive some questions about the Datica BAA from one of our customers. You should reach out to:
+You receive some questions about the NutriAdmin BAA from one of our customers. You should reach out to:
 
 - <input type="checkbox"> `Chief Privacy Officer`
 - <input type="checkbox"> `Chief Product Officer`
@@ -71,7 +67,7 @@ In the above scenario, if the person you suspect is your supervisor, you should:
 
 <div class="reveal-answer">
 	<button class="button">Reveal Answer</button>
-	<blockquote><p>The CSO is responsible for all investigations of privacy and security policy violations</p></blockquote>
+	<blockquote><p>The Chief Security Officer is responsible for all investigations of privacy and security policy violations</p></blockquote>
 </div>
 
 ----
