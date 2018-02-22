@@ -4,7 +4,7 @@ The HIPAA [Privacy Rule](http://www.hhs.gov/hipaa/for-professionals/privacy/inde
 ##Entities
 The Privacy Rule defines two main categories of entities:
 
-1. *Covered Entities (CEs)*. These are the traditional players in healthcare - providers, hospitals, health systems, insurers. For some reason clearinghouses are called out as they transform and process health information for payers and providers; the clearinghouse that I always think of is Emdeon.
+1. *Covered Entities (CEs)*. These are the traditional players in healthcare - providers, hospitals, health systems, insurers. For some reason clearinghouses are called out as they transform and process health information for payers and providers; an example of a clearinghouse could be Emdeon.
 
 2. *Business Associates (BAs)*. These are individuals and organizations that provide services and/or technology to covered entities. In the process of providing those services and technology, the business associate in some way processes, transmits, or stores protected health information (PHI). All software vendors in healthcare, if they somehow touch PHI, are business associates.
 
@@ -13,7 +13,7 @@ A third category of entity, or maybe more accurately a subcategory of business a
 The Omnibus Rule also defined a PHR (Personal Health Record) vendor, offering a PHR through a covered entity, as a business associate.
 
 ##PHI + De-identifying
-We devoted an entire post to "[What is PHI?](https://datica.com/learn/what-is-protected-health-information-or-phi)" because it's an incredibly important topic in HIPAA. It's basically personally identifiable data (name, email, phone, etc) combined with some type of health-related data (medication, diagnosis, provider name, etc).
+PHI is an incredibly important topic in HIPAA. You can click "[What is PHI?](https://datica.com/learn/what-is-protected-health-information-or-phi)" to read a thorough blog post discussing PHI at Datica. It's basically personally identifiable data (name, email, phone, etc) combined with some type of health-related data (medication, diagnosis, provider name, etc).
 
 PHI can be de-identified by removing certain elements from the data, in a process called the [Safe Harbor](http://www.hhs.gov/ocr/privacy/hipaa/understanding/coveredentities/De-identification/guidance.html#safeharborguidance) method, or through "[expert determination](http://www.hhs.gov/ocr/privacy/hipaa/understanding/coveredentities/De-identification/guidance.html#guidancedetermination)", which seems a bit fuzzy to us as it is ripe for interpretation. The idea with both methods for de-identification is to make it so you can't identify an individual from a data set (duh!).
 
