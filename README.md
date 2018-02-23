@@ -2,7 +2,7 @@
 
 This is an overview training of HIPAA, with coverage of key definitions and provisions for the handing of HIPAA-relevant data. The material in this book is intended for individuals who work for organizations that provide technology and technology-enabled services to health systems, payers, physicians, pharma, and other healthcare organizations. It leans more heavily on the use of modern, cloud-based technologies than traditional client side software.
 
-- The license for these docs can be found [here](https://github.com/daticahealth/training/blob/master/LICENSE.md)
+- The license for these docs can be found [here](https://github.com/Nutriadmin/hipaa-training/blob/master/LICENSE.md)
 
 # Getting Started
 
@@ -17,7 +17,7 @@ These training materials for NutriAdmin are an adaptation of Datica's training. 
 
 Once you have Middleman installed and working you can complete the following to get a working copy of these docs on your local machine:
 
-- `git clone https://github.com/catalyzeio/training.git`
+- `git clone https://github.com/Nutriadmin/hipaa-training.git`
 - `cd training`
 - `bundle install`
 
