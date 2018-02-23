@@ -45,6 +45,6 @@ So please - take the time to read through this carefully.
 
 ## Attribution
 
-These training materials for NutriAdmin are an adaptation of Datica's training.
+These training materials for NutriAdmin are an adaptation of Datica's training. Quoting Datica:
 
-Original material and content was created by [Datica Health, Inc,](https://datica.com) and is released as open source. Available educational material for HIPAA is largely outdated in its coverage of technology and utility to vendors is extremely limited. The goal of releasing this as open source is that the growing community of healthcare companies can contribute, enrich, and keep it relevant over time. Please email [training@datica.com](mailto:training@datica.com) with any questions or problems accessing the training.
+> Original material and content was created by [Datica Health, Inc,](https://datica.com) and is released as open source. Available educational material for HIPAA is largely outdated in its coverage of technology and utility to vendors is extremely limited. The goal of releasing this as open source is that the growing community of healthcare companies can contribute, enrich, and keep it relevant over time. Please email [training@datica.com](mailto:training@datica.com) with any questions or problems accessing the training.

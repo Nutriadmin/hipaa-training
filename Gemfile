@@ -13,3 +13,19 @@ gem "middleman-syntax"
 gem "middleman-search_engine_sitemap"
 
 gem "nokogiri", "~> 1.6.3.1"
+
+gem "rack"
+
+gem "tzinfo"
+
+gem "minitest"
+
+gem "addressable"
+
+gem "rb-fsevent"
+
+gem "ffi"
+
+gem "sass"
+
+gem "execjs"
