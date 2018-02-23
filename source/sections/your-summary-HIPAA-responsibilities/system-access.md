@@ -12,4 +12,33 @@ Since we manage critical systems potentially containing sensitive PHI informatio
 5. Ensure your personal workstation is set to log you off and / or lock if you step away from it.
 6. Do not use your laptop for any illegal or harmful activities. If you're not sure, don't do it.
 
+## Malware and software
+
+As a general rule, it is very likely that you will be issued a computer that already has all the software you need to work installed. If you think you need any additional software, you must request permission from your manager or from the Security Officer before installing any programs. This rule applies to:
+
+- Desktop applications
+- Web browser plugins
+- Online or web applications
+- Apps in a phone or portable device
+- Plugins or add-ons to online services
+- Any other software that may in some way have access to certain components of your system (e.g. personal data, voice controls, etc)
+
+Your computer should have an antivirus installed (if you cannot find it, please contact the Security Officer immediately). The antivirus should run periodical scans and protect and warn you against potential malware threats.
+
+There are many ways in which malware can infect your computer, and you should be aware of these and prevent them from occurring. Some of the most common examples are:
+- Opening email attachments (contact the Security Officer before opening any attachments originating from outside NutriAdmin)
+- Downloading software (that's why we have the above rule to not download software unless pre-approved by NutriAdmin's Security Officer)
+- Inserting usb drives, cds, and other removable media in your computer (you shouldn't need to do this as part of your job. If you require to use external media, please contact the Security Officer and obtain authorization)
+
+
+## Unsecure networks and traveling
+
+It is prohibited to connect your laptop to any public WiFi network (e.g. in a cafeteria or airport). Public networks are insecure and vulnerable, and your data could be compromised (e.g. Man in the middle attacks). As a general rule, you shouldn't bring your workstation outside the office. If you are traveling and need to bring your computer along, you should:
+
+- Obtain authorization from the Security Officer
+- Switch off bluetooth, WiFi connectivity, and setup airplane mode in your computer
+- Work offline and keep your computer offline for the duration of your trip
+
+You may use the network connectivity functionality in your computer once you arrive at a secure work location again
+
 
