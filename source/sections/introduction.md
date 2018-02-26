@@ -23,7 +23,7 @@ The training covers the following topics:
 * How does NutriAdmin address compliance.
 
 *********************
-We are in the business of providing compliant software as a service to our customers (mainly nutritionists and dietitians) so that they do not have to worry about the nuances of software and application security - all they have to worry about is their clients and patients - its own internal policies and security on their own environments. We take care of everything else.
+We are in the business of providing software as a service to our customers (mainly nutritionists and dietitians) so that they can manage their business efficiently and securely – all they have to worry about is their clients and patients - its own internal policies and security on their own environments.
 
 
 So why is HIPAA training important? The rationale is best explained by this quote from Cory Doctorow -

@@ -2,7 +2,7 @@
 
 NutriAdmin has a Security Officer and Privacy Officer appointed to assist in maintaining and enforcing safeguards towards compliance.
 
-**The Privacy officer for NutriAdmin, is Magda Sternik**. You all have access to her email and phone number through our internal directory. Under this role, her responsibilities are to:
+**The Privacy officer for NutriAdmin, is Diego Oliveira Sanchez**. You all have access to his email and phone number through our internal directory. Under this role, his responsibilities are to:
 
 - Assist with compliance and security training for workforce members, assuring organization remains in compliance with evolving compliance rules, and helping the Security Officer in his responsibilities.
 - Assist in the administration and oversight of business associate agreements.

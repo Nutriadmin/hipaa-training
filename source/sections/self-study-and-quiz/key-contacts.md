@@ -9,7 +9,7 @@ Who is the Chief Privacy Officer?
 
 <div class="reveal-answer">
 	<button class="button">Reveal Answer</button>
-	<blockquote><p>Magda Sternik is the Chief Privacy Officer.</p></blockquote>
+	<blockquote><p>Diego Oliveira Sanchez is the Chief Privacy Officer.</p></blockquote>
 </div>
 
 Who is the Chief Security Officer?
