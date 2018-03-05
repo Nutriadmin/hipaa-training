@@ -24,6 +24,6 @@ Once you have Middleman installed and working you can complete the following to 
 **Commands:**
 
 - `rake build` generates the static HTML, CSS, and JavaScript files (`bundle exec middleman build`)
-- `rake run` allows you to view the site locally
+- `rake run` allows you to view the site locally (`bundle exec middleman s`)
 - `rake sass` compiles styles changes
 - `rake serve_static` runs a simple web server in the build directory
